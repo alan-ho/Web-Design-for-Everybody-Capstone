@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+a.navbar-brand {
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+a.nav-link {
+  font-size: 12px;
+  letter-spacing: 1px;
+}
